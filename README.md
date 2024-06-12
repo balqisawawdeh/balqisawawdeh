@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Balqees Awawdeh and I'm a Full Stack developer, from Hebron</h2>
+<h2 align="left">Hi 👋! My name is Balqees Awawdeh</h2>
 
 ###
 
@@ -7,7 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
-<br>  
+<be>
+<h2>Aboutme:</h2><br>
+<p>I'm a passionate full-stack developer eager to collaborate on projects that leverage Python and Django. While I'm currently honing my skills in this powerful framework, my foundation in HTML, CSS, and JavaScript allows me to tackle projects from the ground up. Feel free to reach out to discuss your web development needs, or simply chat about Python, front-end development, or Design Mockups.!
+
+pen_spark
+
+</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
